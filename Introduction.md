@@ -1,4 +1,4 @@
-##Linux is a powerful and versatile operating system that has become a cornerstone in modern computing. Here’s why it’s so popular:
+## Linux is a powerful and versatile operating system that has become a cornerstone in modern computing. Here’s why it’s so popular:
 
 **Open-Source**
 - Linux is free to use, modify, and distribute. This encourages innovation and collaboration across the globe.
